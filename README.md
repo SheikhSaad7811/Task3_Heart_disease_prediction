@@ -38,8 +38,6 @@ Build a classification model to **predict whether a person is at risk of heart d
 - Features like **cp, thalach, oldpeak, ca, thal** often rank highly in importance.
 - ROC curve helps visualize the **trade-off between sensitivity and specificity**.
 
-> ⚕️ **Disclaimer:** This project is for **educational purposes only** and is **not** a medical device or diagnostic tool.
-
 ---
 
 ## 📦 Requirements
