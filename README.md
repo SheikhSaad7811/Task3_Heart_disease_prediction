@@ -7,7 +7,7 @@ Build a classification model to **predict whether a person is at risk of heart d
 
 ## 📊 Dataset Used
 - **Source:** UCI Heart Disease Dataset (Kaggle mirror)
-- **Typical Filename:** `heart.csv`
+- **Typical Filename:** `heart_disease_uci.csv`
 - **Target:** `target` (1 = disease, 0 = no disease)
 - **Common Features (columns may vary slightly):**
   - `age`, `sex`, `cp` (chest pain type), `trestbps` (resting blood pressure),
